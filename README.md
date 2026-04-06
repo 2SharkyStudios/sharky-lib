@@ -1,2 +1,2 @@
-# sharky-lib
+# Sharky Lib
 Highly Functional Minecraft Library 
